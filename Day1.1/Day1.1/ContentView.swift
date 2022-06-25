@@ -11,6 +11,7 @@ struct ContentView: View {
     var body: some View {
         ZStack{
             Color.blue
+            //Color.init(red: 240, green: 248, blue: 255)
             
             VStack{
                 Text("Hello my name is Amnah ")
